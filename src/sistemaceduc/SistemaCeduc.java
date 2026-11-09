@@ -9,7 +9,7 @@ package sistemaceduc;
  * @author Ceduc-Lab306-Docente
  */
 public class SistemaCeduc {
-
+    //HOLA
     /**
      * @param args the command line arguments
      */
