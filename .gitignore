@@ -1,3 +1,13 @@
+
+
 build/
 dist/
 nbproject/private/
+
+target/
+
+
+*.class
+
+*.env
+config.properties
